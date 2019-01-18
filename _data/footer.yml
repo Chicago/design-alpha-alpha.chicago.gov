@@ -26,7 +26,7 @@ top:
 links: footer
 
 # Configuration for footer heading. (optional)
-heading: Chicago Design System
+heading: City of Chicago
 
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
@@ -52,7 +52,7 @@ contact:
   #   href: https://usa.gov/
   #   external: true
   #   type: rss
-  heading: Contact the CDS
+  heading: Contact
 # Configuration for contact links for email, phone, etc...
   contact_links:
     - text: design.system@cityofchicago.org
