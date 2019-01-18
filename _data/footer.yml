@@ -48,12 +48,18 @@ contact:
       href: https://www.twitter.com/ChiDesignDir
       external: true
       type: twitter
-  # - text: RSS Feed
-  #   href: https://usa.gov/
-  #   external: true
-  #   type: rss
   heading: Contact
 # Configuration for contact links for email, phone, etc...
   contact_links:
-    - text: design.system@cityofchicago.org
-      href: mailto:design.system@cityofchicago.org
+    - text: City Hall 121 N. LaSalle St Chicago, Illinois 60602
+      href: https://maps.google.com/
+    - text: Call 311 (within Chicago)
+      href: tel:311
+    - text: Outside of Chicago call 312.744.5000
+      href: tel:312-744-5000
+    - text: Feedback form
+      href: http://webapps1.cityofchicago.org/eforms/contactUsForm
+      external: true
+    - text: cityfeedback@cityofchicago.org
+      href: mailto:cityfeedback@cityofchicago.org
+
