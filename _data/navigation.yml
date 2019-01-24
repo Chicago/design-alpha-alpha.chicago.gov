@@ -14,24 +14,22 @@
 primary:
   - text: I want to
     links:
-      - text: Accessibility Home Page
-        href: /accessibility/
-      - text: Alternative Versions
-        href: '/accessibility/alternative-versions/'
-      - text: Checklist
-        href: '/accessibility/checklist/'
-      - text: Color
-        href: '/accessibility/color/'
-      - text: CSS
-        href: '/accessibility/css/'
-      - text: Flashing
-        href: '/accessibility/flashing/'
-      - text: Forms
-        href: '/accessibility/forms/'
-      - text: Frames
-        href: '/accessibility/frames/'
-      - text: Headings
-        href: '/accessibility/headings/'
+      - text: Apply for
+        href: https://www.chicago.gov/city/en/svcs/iwantto.apply_for.html
+      - text: Check status of
+        href: https://www.chicago.gov/city/en/svcs/iwantto.check_status_of.html
+      - text: Find/Get
+        href: https://www.chicago.gov/city/en/svcs/iwantto.find_get.html
+      - text: Pay for/Buy
+        href: https://www.chicago.gov/city/en/svcs/iwantto.pay_for_buy.html
+      - text: Register
+        href: https://www.chicago.gov/city/en/svcs/iwantto.register.html
+      - text: Report/File
+        href: https://www.chicago.gov/city/en/svcs/iwantto.report_file.html
+      - text: Request
+        href: https://www.chicago.gov/city/en/svcs/iwantto.request.html
+      - text: Sign up for/volunteer
+        href: https://www.chicago.gov/city/en/svcs/iwantto.sign_up_for_volunteer.html
   - text: Programs & initiatives
     links:
       - text: Affordable Chicago
