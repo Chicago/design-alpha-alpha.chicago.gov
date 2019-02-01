@@ -6,9 +6,9 @@ permalink: /about/
 
 This is a prototype implementation of chicago.gov using the Chicago Design System as a theme. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can find out more about the City of Chicago's source code for the Chicago Design System and other projects at GitHub:
+[Chicago](https://github.com/Chicago) /
+[Chicago Design System](http://chicagodesignsystem.org/)
 
 
 ## Colophon
