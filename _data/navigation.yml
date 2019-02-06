@@ -100,9 +100,9 @@ primary:
         href: '/accessibility/alternative-versions/'
 
 secondary:
-  - text: City Homepage
-    href: https://www.chicago.gov
-    external: true
+#  - text: City Homepage
+#    href: https://www.chicago.gov
+#    external: true
 
 footer:
   - text: Accessibility
