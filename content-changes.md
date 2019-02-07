@@ -26,6 +26,8 @@ This is a running list of implied content changes between current cityofchicago.
 ## 2018-02-07
 
 * Updating homepage template with banner image
-* Adding an accessibility statement
+* Added an accessibility statement
+* Added four department secondary pages
+* Added an application tertiary page
 
-
+ 

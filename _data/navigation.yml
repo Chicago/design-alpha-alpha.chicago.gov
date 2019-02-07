@@ -100,9 +100,17 @@ primary:
         href: '/accessibility/alternative-versions/'
 
 secondary:
-#  - text: City Homepage
-#    href: https://www.chicago.gov
-#    external: true
+  - text: 1
+    href: /doit
+  - text: 2
+    href: /fin
+  - text: 3
+    href: /cdph
+  - text: 4
+    href: /311
+  - text: 5
+    href: /chi311
+
 
 footer:
   - text: Accessibility
