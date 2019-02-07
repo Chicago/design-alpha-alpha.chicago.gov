@@ -23,4 +23,9 @@ This is a running list of implied content changes between current cityofchicago.
 
 * Updated format of homepage to 2/3rds 1/3rd format and included all home page content in the view.
 
+## 2018-02-07
+
+* Updating homepage template with banner image
+* Adding an accessibility statement
+
 
